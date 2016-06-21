@@ -1,238 +1,178 @@
-{
-  "wallpapers": [
-    
-    {
-      "author": "Zan Cerne",
-      "url": "http://i.imgur.com/SNAxyCU.png",
-      "name": "ZheanoBlog One ",
-      "thumbnail": "http://i.imgur.com/SNAxyCU.png"
-    },
-	{
-      "author": "Zan Cerne",
-      "url": "http://i.imgur.com/2GEOcyT.png",
-      "name": "ZheanoBlog Two ",
-      "thumbnail": "http://i.imgur.com/2GEOcyT.png"
-    },{
-      "author": "Zan Cerne",
-      "url": "http://i.imgur.com/Wp8yDqc.png",
-      "name": "ZheanoBlog Three ",
-      "thumbnail": "http://i.imgur.com/Wp8yDqc.png"
-    },
-	{
-      "author": "Zan Cerne",
-      "url": "http://i.imgur.com/ZjsTY5X.png",
-      "name": "ZheanoBlog Four ",
-      "thumbnail": "http://i.imgur.com/ZjsTY5X.png"
-    },
-	{
-      "author": "Zan Cerne",
-      "url": "http://i.imgur.com/3u2qsbw.png",
-      "name": "ZheanoBlog Five ",
-      "thumbnail": "http://i.imgur.com/3u2qsbw.png"
-    },
-	{
-      "author": "Urmil Shroff",
-      "url": "http://i.imgur.com/e3kuE0f.jpg",
-      "name": "Nexus 5 Shots One ",
-      "thumbnail": "http://i.imgur.com/e3kuE0f.jpg"
-    },
-    {
-      "author": "Urmil Shroff",
-      "url": "http://i.imgur.com/GSxPwVu.jpg",
-      "name": "Nexus 5 Shots Two ",
-      "thumbnail": "http://i.imgur.com/GSxPwVu.jpg"
-    },
-     {
-      "author": "Urmil Shroff",
-      "url": "http://i.imgur.com/7x2pW7N.jpg",
-      "name": "Nexus 5 Shots Three ",
-      "thumbnail": "http://i.imgur.com/7x2pW7N.jpg"
-    },
-    {
-      "author": "Urmil Shroff",
-      "url": "http://i.imgur.com/ris9W3o.jpg",
-      "name": "Nexus 5 Shots Four ",
-      "thumbnail": "http://i.imgur.com/ris9W3o.jpg"
-    },
-    {
-      "author": "Urmil Shroff",
-      "url": "http://i.imgur.com/qF56dIO.jpg",
-      "name": "Nexus 5 Shots Five ",
-      "thumbnail": "http://i.imgur.com/qF56dIO.jpg"
-    },
-    {
-      "author": "Unsplash",
-      "url": "http://i.imgur.com/fUCEnHX.jpg",
-      "name": "Road One",
-      "thumbnail": "http://i.imgur.com/fUCEnHX.jpg"
-    },
-    {
-      "author": "Unsplash",
-      "url": "http://i.imgur.com/8YGEGrO.jpg",
-      "name": "Kitteh One",
-      "thumbnail": "http://i.imgur.com/8YGEGrO.jpg"
-    },
-    {
-      "author": "Unsplash",
-      "url": "http://i.imgur.com/GcDC9Gf.jpg",
-      "name": "Doggie One",
-      "thumbnail": "http://i.imgur.com/GcDC9Gf.jpg"
-    },
-    {
-      "author": "Unsplash",
-      "url": "http://i.imgur.com/0jkAzlN.jpg",
-      "name": "Kitteh Two",
-      "thumbnail": "http://i.imgur.com/0jkAzlN.jpg"
-    },
-    {
-      "author": "Unsplash",
-      "url": "http://i.imgur.com/8P0OzVp.jpg",
-      "name": "Kitteh Three",
-      "thumbnail": "http://i.imgur.com/8P0OzVp.jpg"
-    },
-    {
-      "author": "Unsplash",
-      "url": "http://i.imgur.com/nnpCk8a.jpg",
-      "name": "Kitteh Coffeh",
-      "thumbnail": "http://i.imgur.com/nnpCk8a.jpg"
-    },
-    {
-      "author": "Unsplash",
-      "url": "http://i.imgur.com/jDm6Ns7.jpg",
-      "name": "Doggie Three",
-      "thumbnail": "http://i.imgur.com/jDm6Ns7.jpg"
-    },
-    {
-      "author": "Unsplash",
-      "url": "http://i.imgur.com/3s7fEpZ.jpg",
-      "name": "Doggie Four",
-      "thumbnail": "http://i.imgur.com/3s7fEpZ.jpg"
-    },
-    {
-      "author": "Unsplash",
-      "url": "http://i.imgur.com/oQNBVT5.jpg",
-      "name": "Mountains One",
-      "thumbnail": "http://i.imgur.com/oQNBVT5.jpg"
-    },
-    {
-      "author": "Unsplash",
-      "url": "http://i.imgur.com/7cB3lFP.jpg",
-      "name": "Random One",
-      "thumbnail": "http://i.imgur.com/7cB3lFP.jpg"
-    },
-    {
-      "author": "Unsplash",
-      "url": "http://i.imgur.com/J2N1C6B.jpg",
-      "name": "Random Two",
-      "thumbnail": "http://i.imgur.com/J2N1C6B.jpg"
-    },
-    {
-      "author": "Unsplash",
-      "url": "http://i.imgur.com/EFHhq3M.jpg",
-      "name": "Random Three",
-      "thumbnail": "http://i.imgur.com/EFHhq3M.jpg"
-    },
-    {
-      "author": "Unsplash",
-      "url": "http://i.imgur.com/FTC0K28.jpg",
-      "name": "Water One",
-      "thumbnail": "http://i.imgur.com/FTC0K28.jpg"
-    },
-    {
-      "author": "Unsplash",
-      "url": "http://i.imgur.com/vpIAjRM.jpg",
-      "name": "Water Two",
-      "thumbnail": "http://i.imgur.com/vpIAjRM.jpg"
-    },
-    {
-      "author": "Unsplash",
-      "url": "http://i.imgur.com/s3SXVNv.jpg",
-      "name": "Water Three",
-      "thumbnail": "http://i.imgur.com/s3SXVNv.jpg"
-    },
-    {
-      "author": "Unsplash",
-      "url": "http://i.imgur.com/RZ1fxVQ.jpg",
-      "name": "Water Four",
-      "thumbnail": "http://i.imgur.com/RZ1fxVQ.jpg"
-    },
-    {
-      "author": "Unsplash",
-      "url": "http://i.imgur.com/0QWNV7c.jpg",
-      "name": "Flower One",
-      "thumbnail": "http://i.imgur.com/0QWNV7c.jpg"
-    },
-    {
-      "author": "Unsplash",
-      "url": "http://i.imgur.com/5HCJxP3.jpg",
-      "name": "Flower Two",
-      "thumbnail": "http://i.imgur.com/5HCJxP3.jpg"
-    },
-    {
-      "author": "Unsplash",
-      "url": "http://i.imgur.com/uhv03Gf.jpg",
-      "name": "Road One",
-      "thumbnail": "http://i.imgur.com/uhv03Gf.jpg"
-    },
-    {
-      "author": "Unsplash",
-      "url": "http://i.Unsplash.com/QaTA6ga.jpg",
-      "name": "Car One",
-      "thumbnail": "http://i.imgur.com/QaTA6ga.jpg"
-    },
-    {
-      "author": "Unsplash",
-      "url": "http://i.imgur.com/AXzJSit.jpg",
-      "name": "Car Two",
-      "thumbnail": "http://i.imgur.com/AXzJSit.jpg"
-    },
-    {
-      "author": "Darin",
-      "url": "http://i.imgur.com/METvaTY.jpg",
+[
+  {
+    "name": "Darin Menezes",
+    "wallpapers": [
+      {
+      	"name": "Design One",
+      	"url": "http://i.imgur.com/ggkddq2.png"
+      },
+      {
+        "name": "Design Two",
+        "url": "http://i.imgur.com/SXVsBcv.png"
+      },
+      {
+        "name": "Design Three",
+        "url": "http://i.imgur.com/62KJ9ZY.png"
+      },
+      {
+        "name": "Design Four",
+        "url": "http://i.imgur.com/uSn97BC.png"
+      },
+      {
+        "name": "Design Five",,
+        "url": "http://i.imgur.com/94SnmbZ.png"
+      },
+      {
+        "name": "Design Six",
+        "url": "http://i.imgur.com/AFUZecO.png"
+      },
+      {
+        "name": "Design Seven",
+        "url": "http://i.imgur.com/QaQBTfv.png"
+      },
+      {
       "name": "Erasers One",
-      "thumbnail": "http://i.imgur.com/METvaTY.jpg"
-    },
-    {
-      "author": "Darin",
-      "url": "http://i.imgur.com/ggkddq2.png",
-      "name": "Design One",
-      "thumbnail": "http://i.imgur.com/ggkddq2.png"
-    },
-    {
-      "author": "Darin",
-      "url": "http://i.imgur.com/SXVsBcv.png",
-      "name": "Design Two",
-      "thumbnail": "http://i.imgur.com/SXVsBcv.png"
-    },
-    {
-      "author": "Darin",
-      "url": "http://i.imgur.com/62KJ9ZY.png",
-      "name": "Design Three",
-      "thumbnail": "http://i.imgur.com/62KJ9ZY.png"
-    },
-    {
-      "author": "Darin",
-      "url": "http://i.imgur.com/uSn97BC.png",
-      "name": "Design Four",
-      "thumbnail": "http://i.imgur.com/uSn97BC.png"
-    },
-    {
-      "author": "Darin",
-      "url": "http://i.imgur.com/94SnmbZ.png",
-      "name": "Design Five",
-      "thumbnail": "http://i.imgur.com/94SnmbZ.png"
-    },
-    {
-      "author": "Darin",
-      "url": "http://i.imgur.com/AFUZecO.png",
-      "name": "Design Six",
-      "thumbnail": "http://i.imgur.com/AFUZecO.png"
-    },
-    {
-      "author": "Darin",
-      "url": "http://i.imgur.com/QaQBTfv.png",
-      "name": "Design Seven",
-      "thumbnail": "http://i.imgur.com/QaQBTfv.png"
-    }
-  ]
-}
+      "url": "http://i.imgur.com/METvaTY.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Zan Cerne",
+    "wallpapers": [
+      {
+        "name": "ZheanoBlog One",
+        "url": "http://i.imgur.com/SNAxyCU.png"
+      },
+      {
+        "name": "ZheanoBlog Two",
+        "url": "http://i.imgur.com/2GEOcyT.png"
+      },
+      {
+        "name": "ZheanoBlog Three",
+        "url": "http://i.imgur.com/Wp8yDqc.png"
+      },
+      {
+        "name": "ZheanoBlog Four",
+        "url": "http://i.imgur.com/ZjsTY5X.png"
+      },
+      {
+        "name": "ZheanoBlog Five",
+        "url": "http://i.imgur.com/3u2qsbw.png"
+      }
+    ]
+  },
+  {
+    "name": "Urmil Shroff",
+    "wallpapers": [
+      {
+        "name": "Nexus 5 Shots One",
+        "url": "http://i.imgur.com/e3kuE0f.jpg"
+      },
+      {
+        "name": "Nexus 5 Shots Two",
+        "url": "http://i.imgur.com/GSxPwVu.jpg"
+      },
+      {
+        "name": "Nexus 5 Shots Three",
+        "url": "http://i.imgur.com/7x2pW7N.jpg"
+      },
+      {
+        "name": "Nexus 5 Shots Four",
+        "url": "http://i.imgur.com/ris9W3o.jpg"
+      },
+      {
+        "name": "Nexus 5 Shots Five",
+        "url": "http://i.imgur.com/qF56dIO.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Unsplash",
+    "wallpapers": [
+      {
+        "name": "Road One",
+        "url": "http://i.imgur.com/fUCEnHX.jpg"
+      },
+      {
+        "name": "Kitteh One",
+        "url": "http://i.imgur.com/8YGEGrO.jpg"
+      },
+      {
+        "name": "Doggie One",
+        "url": "http://i.imgur.com/GcDC9Gf.jpg"
+      },
+      {
+        "name": "Kitteh Two",
+        "url": "http://i.imgur.com/0jkAzlN.jpg"
+      },
+      {
+        "name": "Kitteh Three",
+        "url": "http://i.imgur.com/8P0OzVp.jpg"
+      },
+      {
+        "name": "Kitteh Coffeh",
+        "url": "http://i.imgur.com/nnpCk8a.jpg"
+      },
+      {
+        "name": "Doggie Three",
+        "url": "http://i.imgur.com/jDm6Ns7.jpg"
+      },
+      {
+        "name": "Doggie Four",
+        "url": "http://i.imgur.com/3s7fEpZ.jpg"
+      },
+      {
+        "name": "Mountains One",
+        "url": "http://i.imgur.com/oQNBVT5.jpg"
+      },
+      {
+        "name": "Random One",
+        "url": "http://i.imgur.com/7cB3lFP.jpg"
+      },
+      {
+        "name": "Random Two",
+        "url": "http://i.imgur.com/J2N1C6B.jpg"
+      },
+      {
+        "name": "Random Three",
+        "url": "http://i.imgur.com/EFHhq3M.jpg"
+      },
+      {
+        "name": "Water One",
+        "url": "http://i.imgur.com/FTC0K28.jpg"
+      },
+      {
+        "name": "Water Two",
+        "url": "http://i.imgur.com/vpIAjRM.jpg"
+      },
+      {
+        "name": "Water Three",
+        "url": "http://i.imgur.com/s3SXVNv.jpg"
+      },
+      {
+        "name": "Water Four",
+        "url": "http://i.imgur.com/RZ1fxVQ.jpg"
+      },
+      {
+        "name": "Flower One",
+        "url": "http://i.imgur.com/0QWNV7c.jpg"
+      },
+      {
+        "name": "Flower Two",
+        "url": "http://i.imgur.com/5HCJxP3.jpg"
+      },
+      {
+        "name": "Road One",
+        "url": "http://i.imgur.com/uhv03Gf.jpg"
+      },
+      {
+        "name": "Car One",
+        "url": "http://i.Unsplash.com/QaTA6ga.jpg"
+      },
+      {
+        "name": "Car Two",
+        "url": "http://i.imgur.com/AXzJSit.jpg"
+      }
+    ]
+  }
+]
