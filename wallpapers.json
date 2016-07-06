@@ -184,8 +184,10 @@
       {
         "name": "Car Two",
         "url": "http://i.imgur.com/AXzJSit.jpg"
-      },
-    {
+      }
+    ]
+  },
+  {
     "name": "Legacy Wallpapers",
     "description": "Wallpapers which will always be remebered",
     "icon": "http://i.imgur.com/ajBB8D1.jpg",
