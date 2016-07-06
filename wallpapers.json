@@ -262,5 +262,37 @@
         "url": "http://i.imgur.com/kQLDjFl.jpg"
       }
     ]
+  },
+  {
+    "name": "Space",
+    "description": "SPACE IS SOOO COOOOOL",
+    "icon": "http://i.imgur.com/hvISclz.jpg",
+    "url": "www.nasa.gov",
+    "wallpapers": [
+      {
+        "name": "Space One",
+        "url": "http://i.imgur.com/TQsXVGw.jpg"
+      },
+      {
+        "name": "Space Two",
+        "url": "http://i.imgur.com/KwTAbwa.jpg"
+      },
+      {
+        "name": "Space Three",
+        "url": "http://i.imgur.com/Qc8dEVi.jpg"
+      },
+      {
+        "name": "Space Four",
+        "url": "http://i.imgur.com/hvISclz.jpg"
+      },
+      {
+        "name": "Space Five",
+        "url": "http://i.imgur.com/x3hGJMw.jpg"
+      },
+      {
+        "name": "Space Six",
+        "url": "http://i.imgur.com/7KVcXSn.jpg"
+      }
+    ]
   }
 ]
